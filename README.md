@@ -1,5 +1,5 @@
 
-# USEV - Uni of Strathclyde Eco Vehicle
+# Uni of Strathclyde Eco Vehicle
 
 Design, build and test a highly efficient battery electric vehicle for the Shell Eco-Marathon competition. 
 
